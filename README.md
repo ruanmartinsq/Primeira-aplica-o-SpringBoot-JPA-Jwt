@@ -1,16 +1,19 @@
-Minha Primeira Aplicação Spring Boot
+# 🚀 Primeira Aplicação Spring Boot
 
-Este projeto foi desenvolvido como meu primeiro contato com o ecossistema do Spring Boot, acompanhando um tutorial em vídeo do YouTube.
+Meu primeiro projeto utilizando :contentReference[oaicite:0]{index=0}, desenvolvido com o objetivo de aprender os fundamentos de APIs REST, autenticação com JWT e Spring Security.
 
-O objetivo foi aprender os conceitos básicos de uma API REST utilizando Java e Spring, incluindo:
+---
 
-Estrutura de um projeto Spring Boot
-Criação de endpoints
-Controllers e Services
-Integração com banco de dados
-Autenticação com JWT
-Segurança com Spring Security
+## 🧠 Conteúdos Praticados
 
-Foi um projeto de aprendizado importante para entender melhor o desenvolvimento backend com Java.
+- Criação de APIs REST  
+- Controllers e Services  
+- Integração com banco de dados  
+- Spring Security  
+- Autenticação JWT  
 
-Tutorial utilizado: Vídeo no YouTube
+---
+
+## ▶️ Tutorial Utilizado
+
+🎥 YouTube: https://www.youtube.com/watch?v=SqU9v_V32RA
